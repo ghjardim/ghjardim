@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Guilherme, a B.Sc. Computer Science student @ IGCE/Unesp, São Paulo, Brazil.
+I'm Guilherme, a B.Sc. Computer Science student @ IGCE/UNESP, São Paulo, Brazil.
 
-- 🔭 I'm currently **working on** a deep-learning themed undergraduate research @ PRISMA/DEMAC/IGCE/Unesp.
-- ⚡ **More info about me**: Linux Mint user; GNU/Linux learner; always learning about self improvement.
+- 🔭 I'm currently **working on** a deep-learning / image processing themed undergraduate research @ PRISMA/DEMAC/IGCE/Unesp.
+- ⚡ **More info about me**: Linux Mint XFCE user; bash user; always learning about self improvement.
 
 
 <!--
