@@ -3,7 +3,7 @@
 I'm Guilherme, a B.Sc. Computer Science student @ IGCE/UNESP, São Paulo, Brazil.
 
 - 🔭 I'm currently **working on** a deep-learning / image processing themed undergraduate research @ PRISMA/DEMAC/IGCE/Unesp.
-- ⚡ **More info about me**: Linux Mint XFCE user; bash user; always learning about self improvement.
+- ⚡ **More info about me**: Linux Mint XFCE user; likes to work with bash; always learning about self improvement.
 
 
 <!--
