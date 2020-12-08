@@ -2,7 +2,7 @@
 
 I'm Guilherme, a B.Sc. Computer Science student @ IGCE/UNESP, São Paulo, Brazil.
 
-- 🔭 I'm currently **working on** a deep-learning / image processing themed undergraduate research @ PRISMA/DEMAC/IGCE/Unesp.
+- 🔭 I'm currently **working on** [a deep-learning / image processing themed undergraduate research](https://github.com/ghjardim/dncnn-for-reconst-dbt) @ PRISMA/DEMAC/IGCE/Unesp.
 - 🌱 I’m **currently learning** Python3 and TensorFlow
 - 📫 How to **reach me**: [[StackOverflow]](https://stackoverflow.com/users/ghjardim) [[HackerRank]](https://www.hackerrank.com/guilherme_jardim) [[CodeForces]](https://codeforces.com/profile/ghjardim).
 - ⚡ **More info about me**: GNU/Linux Mint, i3wm and terminal user. In <3 w/ FOSS.
