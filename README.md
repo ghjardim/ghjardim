@@ -2,7 +2,9 @@
 
 I'm Guilherme, a B.Sc. Computer Science student @ IGCE/UNESP, São Paulo, Brazil.
 
-- 🔭 I'm currently **working on** [a deep-learning / image processing themed undergraduate research](https://github.com/ghjardim/dbt-denoising-dncnn) @ PRISMA/DEMAC/IGCE/Unesp
+- 🔭 I'm currently **working on**:
+   - [a deep-learning / image processing themed undergraduate research](https://github.com/ghjardim/dbt-denoising-dncnn) @ PRISMA/DEMAC/IGCE/Unesp
+   - [git translation to European Portuguese](https://github.com/git-l10n-pt-PT/git-po)
 - 🌱 I’m **currently learning** Python3, TensorFlow and Git
 - ⚡ **More info about me**: GNU/Linux Debian + i3wm user. In <3 w/ FOSS.
 
