@@ -2,11 +2,13 @@
 
 I'm Guilherme, a B.Sc. Computer Science student @ IGCE/UNESP, São Paulo, Brazil.
 
-<a href="https://codeberg.org/ghjardim/">
-  <img src="./checkOutCodeberg.png" alt="Check out my Codeberg" width="300" />
-</a>
+<p align="center"
+  <a href="https://codeberg.org/ghjardim/">
+    <img src="./checkOutCodeberg.png" alt="Check out my Codeberg" width="300" />
+  </a>
 
-Codeberg is a community-driven Gitea server; in other words, an alternative to GitHub. I prioritize hosting my programming projects on Codeberg over GitHub — check out [my profile](https://codeberg.org/ghjardim/)!
+  Codeberg is a community-driven Gitea server; in other words, an alternative to GitHub. I prioritize hosting my programming projects on Codeberg over GitHub — check out [my profile](https://codeberg.org/ghjardim/)!
+</p>
 
 <!--
 **ghjardim/ghjardim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
